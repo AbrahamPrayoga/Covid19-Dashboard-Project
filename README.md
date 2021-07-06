@@ -18,4 +18,5 @@ On the visualization I learn to make some action of filter using another chart a
 # The Dashboard
 You can find the dashboard in this <a href="https://public.tableau.com/views/ProjectCovidDashboard/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link">link</a>.
 Don't forget to maximize the view so get better experience. Here is the screenshot of the Dashboard.
-<img src="https://drive.google.com/file/d/1TnzwJCgTE0ZeBh8kRN1QxICCCKll495d/view?usp=sharing">
+![WhatsApp Image 2021-07-06 at 2 17 23 PM](https://user-images.githubusercontent.com/64680057/124559033-71f6e080-de65-11eb-9142-9300ccc16f04.jpeg)
+
